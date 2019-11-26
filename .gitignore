@@ -1,0 +1,6 @@
+bin/
+.vscode/
+go.mod
+go.sum
+vendor/
+pgbouncer_exporter
