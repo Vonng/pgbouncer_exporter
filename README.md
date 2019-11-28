@@ -4,7 +4,11 @@ Prometheus exporter for [Pgbouncer](https://www.pgbouncer.org) metrics
 
 Tested on pgbouncer `1.12`, should be backward compatible to pgbouncer `1.8.x`
 
-The latest version is `0.0.1`, you can donwnload binaries at the release page.
+The latest version is `0.0.1`, you can donwnload binaries at the [release](https://github.com/Vonng/pgbouncer_exporter/releases/tag/v0.0.1) page.
+
+And you can visualize pgbouce metrics using [`pgb-instance.json`](pgb-instance.json)
+
+![](pgb-instance.png)
 
 
 
